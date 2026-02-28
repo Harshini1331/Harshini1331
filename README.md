@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Building a production-grade RAG system for research paper curation, focusing on high-precision retrieval and automated insight extraction.<br><br>
-👯 I’m looking to collaborate on<br>>Open-source MLOps tools or projects involving scalable LLM orchestration and vector database optimization.<br><br>
+👯 I’m looking to collaborate on<br>Open-source MLOps tools or projects involving scalable LLM orchestration and vector database optimization.<br><br>
 🤝 I’m looking for help with<br>Advanced strategies for low-latency inference on the edge and distributed training of multi-modal models.<br><br>
 🌱 I’m currently learning<br>Deepening my knowledge in agentic workflows and fine-tuning small language models (SLMs) for specialized domain tasks.<br><br>
 💬 Ask me about<br>Architecting secure, local RAG pipelines , deploying models with NVIDIA Triton , or building custom CNNs for niche OCR tasks.<br><br>
