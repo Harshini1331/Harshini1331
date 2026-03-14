@@ -150,18 +150,18 @@ Three things I believe about building AI that actually works:
 
 ## Currently building
 
-🔭 **ScholarStream v2** — extending the RAG pipeline with multi-modal support and fine-tuned retrieval evaluation using RAGAS
+🔭 **ScholarStream v2** : extending the RAG pipeline with multi-modal support and fine-tuned retrieval evaluation using RAGAS
 
-🌱 **Deepening** — agentic workflows, SLM fine-tuning with LoRA/QLoRA for specialized domain tasks
+🌱 **Deepening** : agentic workflows, SLM fine-tuning with LoRA/QLoRA for specialized domain tasks
 
-💬 **Ask me about** — production RAG architecture, NVIDIA Triton deployment, LLMOps observability, or on-device ML
+💬 **Ask me about** : production RAG architecture, NVIDIA Triton deployment, LLMOps observability, or on-device ML
 
 ---
 
 <div align="center">
 
-📍 Open to **AI Engineer · ML Engineer · Generative AI Engineer** roles — Remote or anywhere in the US
+📍 Open to **AI Engineer · ML Engineer · Generative AI Engineer** roles, Remote or anywhere in the US
 
-*If you're building AI that needs to work in the real world — let's talk.*
+*If you're building AI that needs to work in the real world. let's talk.*
 
 </div>
