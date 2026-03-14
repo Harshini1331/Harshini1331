@@ -29,7 +29,7 @@
 
 ## What I build
 
-I'm **Harshini Murugadoss** — an AI & Machine Learning Engineer specializing in **RAG architecture**, **LLM fine-tuning (LoRA/QLoRA)**, **LLMOps**, and **production model serving**.
+I'm **Harshini Murugadoss**, an AI & Machine Learning Engineer specializing in **RAG architecture**, **LLM fine-tuning (LoRA/QLoRA)**, **LLMOps**, and **production model serving**.
 
 I hold an **MS in Robotics from UC Riverside (GPA: 3.97)** and a **B.Tech in AI & Data Science**. My work sits at the intersection of research and engineering, I don't consider a model "done" until it's deployed, monitored, and optimized to run at its best in the real world.
 
