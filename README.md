@@ -135,7 +135,7 @@ Three things I believe about building AI that actually works:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
-
+<!--
 ## GitHub stats
 
 <div align="center">
@@ -146,6 +146,7 @@ Three things I believe about building AI that actually works:
 
 </div>
 
+-->
 ---
 
 ## Currently building
