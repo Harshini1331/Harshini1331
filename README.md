@@ -1,26 +1,167 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a production-grade RAG system for research paper curation, focusing on high-precision retrieval and automated insight extraction.<br><br>
-👯 I’m looking to collaborate on<br>Open-source MLOps tools or projects involving scalable LLM orchestration and vector database optimization.<br><br>
-🤝 I’m looking for help with<br>Advanced strategies for low-latency inference on the edge and distributed training of multi-modal models.<br><br>
-🌱 I’m currently learning<br>Deepening my knowledge in agentic workflows and fine-tuning small language models (SLMs) for specialized domain tasks.<br><br>
-💬 Ask me about<br>Architecting secure, local RAG pipelines , deploying models with NVIDIA Triton , or building custom CNNs for niche OCR tasks.<br><br>
-⚡ Fun fact<br>I specialize in moving models out of Jupyter Notebooks and into production environments where they actually solve problems.
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Generative+AI+%7C+RAG+%7C+LLMOps;Building+AI+that+works+in+the+real+world.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshinimurugadoss) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshini13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshini.murugadoss@outlook.com) 
+**Most AI engineers stop at accuracy. I obsess over what comes after.**
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshini1331&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshini1331&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini1331&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Deployment · Speed · Cost · Real-World Reliability*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshinimurugadoss)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshini.murugadoss@outlook.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@harshini13)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%7C%20ML%20%7C%20GenAI%20Engineer-1D9E75?style=flat)](https://linkedin.com/in/harshinimurugadoss)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshini1331&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## By the numbers
+
+<div align="center">
+
+| 🚀 150–400× | 💸 40% | ⚡ <50ms |
+|:---:|:---:|:---:|
+| RAG pipeline speedup via Redis semantic caching | LLM API cost reduction at a GenAI EdTech startup | Inference latency via NVIDIA Triton Inference Server |
+
+</div>
+
+---
+
+## What I build
+
+I'm **Harshini Murugadoss** — an AI & Machine Learning Engineer specializing in **RAG architecture**, **LLM fine-tuning (LoRA/QLoRA)**, **LLMOps**, and **production model serving**.
+
+I hold an **MS in Robotics from UC Riverside (GPA: 3.97)** and a **B.Tech in AI & Data Science**. My work sits at the intersection of research and engineering, I don't consider a model "done" until it's deployed, monitored, and optimized to run at its best in the real world.
+
+```
+Research Paper  →  Production System  →  Sub-100ms Response
+Notebook Demo   →  7-Service Pipeline  →  Zero API Costs
+Manual Workflow →  NLP Automation      →  Real-Time SQL Ingestion
+```
+
+---
+
+## Featured projects
+
+### 🔬 ScholarStream: Production RAG Pipeline
+> A fully productionized 7-service RAG system answering questions over ML research papers fetched dynamically from arXiv, hybrid search, agentic routing, GPU-accelerated parsing, real-time streaming. Zero API costs.
+
+**Key achievement:** 150–400× response speedup via Redis semantic cache (100ms vs 15–20s)
+
+`Python` `LangChain` `LangGraph` `OpenSearch` `FastAPI` `Redis` `Apache Airflow` `Langfuse` `Docker` `NVIDIA CUDA`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshini1331/ScholarStream)
+
+---
+
+### 🔒 VeriTrace: AI-Powered Compliance Auditor
+> Privacy-first, fully offline RAG system automating compliance auditing, cross-referencing internal policy documents against live federal regulations. Zero data egress. Runs entirely on-premise.
+
+**Key achievement:** Compliance lookup time reduced from manual hours to seconds
+
+`Python` `LangChain` `ChromaDB` `Ollama` `FastAPI` `Docling` `Federal Register API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harshini1331)
+
+---
+
+### 🏭 IMS Bearing Fault Detection: Predictive Maintenance
+> Production-ready anomaly detection pipeline on time series vibration data, deployed via NVIDIA Triton Inference Server with sub-50ms latency. Engineered to prevent costly unplanned downtime on manufacturing lines.
+
+**Key achievement:** 98% accuracy with <50ms end-to-end latency on consumer hardware
+
+`Python` `Scikit-learn` `NVIDIA Triton` `Docker` `ONNX` `HTTP/gRPC`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harshini1331/ims-fault-diagnosis)
+
+---
+
+### 🌱 Agricultural Crop Rotation Planner
+> Precision agriculture ML tool benchmarking 6 algorithms to recommend optimal crops from soil and climate data discovering Gaussian Naive Bayes (99.54%) as the theoretically optimal estimator via EDA-validated feature independence.
+
+`Python` `Scikit-learn` `Streamlit` `Pandas` `Matplotlib`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harshini1331/Crop-Rotation-Planner)
+
+---
+
+## Engineering philosophy
+
+> I don't ship models. I ship systems.
+
+Three things I believe about building AI that actually works:
+
+- **Accuracy is the starting line, not the finish line.** A model that hits 98% in a notebook and 60% in production is a failed model.
+- **Every millisecond and every API call has a cost.** Optimization isn't a nice-to-have, it's engineering discipline.
+- **Observability is not optional.** If you can't trace it, you can't improve it.
+
+---
+
+## Tech stack
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**GenAI & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logoColor=white)
+
+**MLOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat&logo=nvidia&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**Cloud & Tools**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshini1331&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini1331&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## Currently building
+
+🔭 **ScholarStream v2** — extending the RAG pipeline with multi-modal support and fine-tuned retrieval evaluation using RAGAS
+
+🌱 **Deepening** — agentic workflows, SLM fine-tuning with LoRA/QLoRA for specialized domain tasks
+
+💬 **Ask me about** — production RAG architecture, NVIDIA Triton deployment, LLMOps observability, or on-device ML
+
+---
+
+<div align="center">
+
+📍 Open to **AI Engineer · ML Engineer · Generative AI Engineer** roles — Remote or anywhere in the US
+
+*If you're building AI that needs to work in the real world — let's talk.*
+
+</div>
